@@ -1,0 +1,15 @@
+body {
+  text-align: center;
+}
+
+div.container div img {
+width: 50%;
+}
+
+div.container div {
+  margin: 40px 0;
+  padding: 10px;
+  border: 1px solid black;
+  border-radius: 10px;
+  box-shadow: 10px 10px 60px 0px rgba(0,0,0,0.75);
+}
